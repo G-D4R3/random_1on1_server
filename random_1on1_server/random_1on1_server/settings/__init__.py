@@ -1,0 +1,1 @@
+from random_1on1_server.settings.base import *
